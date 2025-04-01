@@ -20,4 +20,4 @@ Gõ tên file (không bao gồm .csv)
 <br>
 <br>
   
-<h4>Customize bot theo yêu cầu liên hệ discord tinne123 hoặc gmail trungtin10622060@gmail.com.</h4>
+
