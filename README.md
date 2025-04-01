@@ -7,7 +7,7 @@ Tạo bản đồ cho union.
 <h2>Hướng dẫn sử dụng</h2>
 
 <h3>Bước 1<h3>
-  <img src= "HDSD/Screenshot_excel.png" width = "450">
+  <img src= "HDSD/Screenshot_excel.png" width = "450"> <br>
   Chuẩn bị file excel theo format như hình trên.
   Name là tên thành viên. X,Y là tọa độ tương ứng với tên ở phía trên.
 <h3>Bước 2</h3>
