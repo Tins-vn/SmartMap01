@@ -8,8 +8,8 @@ Tạo bản đồ cho union.
 
 <h3>Bước 1<h3>
   <img src= "HDSD/Screenshot_excel.png" width = "450">
-Chuẩn bị file excel theo format như hình trên.
-Name là tên thành viên. X,Y là tọa độ tương ứng với tên ở phía trên.
+  Chuẩn bị file excel theo format như hình trên.
+  Name là tên thành viên. X,Y là tọa độ tương ứng với tên ở phía trên.
 <h3>Bước 2</h3>
 <img src="HDSD/Screenshot_1.png"  width="450">
 <h3>Bước 3</h3>
