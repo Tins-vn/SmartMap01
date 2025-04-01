@@ -1,7 +1,7 @@
 <h1>#SmartMap01<h1>
 <h2>Công dụng</h1>
 Tạo bản đồ cho union.
-<img src="Screenshot_3.png" width="450">
+<img src="HDSD/Screenshot_3.png" width="450">
 <h2>Hướng dẫn sử dụng</h2>
 <h3>Bước 1</h3>
 <img src="Screenshot_1.png"  width="450">
