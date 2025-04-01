@@ -9,6 +9,7 @@ Tạo bản đồ cho union.
 <h3>Bước 1</h3>
   <img src= "HDSD/Screenshot_excel.png" width = "450"> <br>
   Chuẩn bị file excel theo format như hình trên. <br>
+  <h4>Lưu ý:</h4> File excel phải đặt trong folder SmartMap02
   Name là tên thành viên. X,Y là tọa độ tương ứng với tên ở phía trên.
 <h3>Bước 2</h3>
 <img src="HDSD/Screenshot_1.png"  width="450">
