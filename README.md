@@ -16,6 +16,7 @@ Tạo bản đồ cho union.
 <img src="HDSD/Screenshot_2.png"  width="450">
 <h3>Bước 4</h3>
 Gõ tên file (không bao gồm .csv)
-
+<br>
+<br>
   
-Liên hệ discord tinne123 hoặc gmail trungtin10622060@gmail.com, tại tới đây lười viết rồi.
+<h4>Liên hệ discord tinne123 hoặc gmail trungtin10622060@gmail.com, tại tới đây lười viết rồi.</h4>
